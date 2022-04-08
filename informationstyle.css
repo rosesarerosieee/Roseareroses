@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bgb.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.box{
+    width: 450px;
+    background: rgba( 0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: left;
+    margin: auto;
+    margin-top: 5%;
+    color: whitesmoke;
+    font-family: 'Century Gothic',sans-serif;
+    
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.box img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+ul li a{
+    display:flex;
+    list-style: none;
+    margin: 26px 0px;
+    color: aqua;
+
+}
+ul li{
+    list-style: none;
+}
+div ul li a:hover{
+    color : red;
+}
+
+
+ 
